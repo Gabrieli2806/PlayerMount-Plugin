@@ -1,0 +1,12 @@
+name: PlayerMountPlugin
+version: 1.0
+main: com.g2806.PlayerMount.PlayerMountPlugin
+api-version: 1.21
+description: Allows players to ride each other, stay mounted during elytra flight, dismount by mount looking up and sneaking 3 times, toggle mounting and boss bar preferences, show mount health as a boss bar (optional), and attack other entities.
+commands:
+  playermount:
+    description: Toggle whether other players can mount you.
+    usage: /<command> <true|false>
+  playermountbossbar:
+    description: Toggle boss bar visibility when riding.
+    usage: /<command> <true|false>

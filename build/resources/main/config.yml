@@ -1,0 +1,7 @@
+# Player preferences
+# Format: playerUUID.allowMount: true/false (allow others to mount, default: true)
+#         playerUUID.bossbar: true/false (show boss bar when riding, default: false)
+# Example:
+# "123e4567-e89b-12d3-a456-426614174000":
+#   allowMount: false
+#   bossbar: true
